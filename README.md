@@ -14,7 +14,7 @@
 
 - Reemplazar `usuariodepostgres` y `passwordDePostgres` con tus propias credenciales para conectarte a postgres.
 
-- Adicionalmente será necesario que creen desde psql una base de datos llamada `boilerplate`
+- Adicionalmente será necesario que creen desde psql una base de datos llamada `pokemon`
 
 - El contenido de `client` fue creado usando: Create React App.
 
